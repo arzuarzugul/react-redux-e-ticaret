@@ -1,3 +1,36 @@
+#
+# React-Redux E-Ticaret Uygulaması
+
+Bu proje, **React** ve **Redux** kullanarak geliştirilmiş bir **e-ticaret** uygulamasıdır. Kullanıcılar ürünleri inceleyebilir, sepete ekleyebilir, sepetteki ürünleri görüntüleyebilir ve ürünlerin miktarlarını değiştirebilir. Proje, temel alışveriş sepeti özelliklerini ve ürün listeleme fonksiyonlarını içermektedir.
+
+## Teknolojiler
+
+- **React**: Uygulama arayüzü için kullanılan JavaScript kütüphanesi.
+- **Redux**: Uygulama durum yönetimi için kullanılan kütüphane. Kullanıcıların sepet verilerini yönetmek için Redux store kullanıldı.
+- **React Router**: Sayfalar arasında gezinmek için kullanıldı.
+- **React-Slick**: Uygulama içindeki slider bileşeni için kullanıldı.
+- **LocalStorage**: Kullanıcı sepet verilerini tarayıcıda saklamak için.
+
+## Bağımlılıklar
+
+Bu projeyi çalıştırabilmek için aşağıdaki bağımlılıklara ihtiyaç vardır:
+
+- **react**: 18.x.x
+- **react-dom**: 18.x.x
+- **react-redux**: 8.x.x
+- **redux**: 4.x.x
+- **react-router-dom**: 6.x.x
+- **react-slick**: 0.28.x
+- **slick-carousel**: 1.8.x
+
+
+
+
+![Ekran görüntüsü 2025-04-29 231427](https://github.com/user-attachments/assets/73018066-3021-4075-916e-2a633f51be91)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
